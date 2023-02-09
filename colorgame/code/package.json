@@ -1,5 +1,6 @@
 {
   "name": "colorgame",
+  "homepage": "https://arayng.github.io/ToyProject/colorgame",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
