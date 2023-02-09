@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/colorgame/static/css/main.77c0a8a0.css",
-    "main.js": "/colorgame/static/js/main.605de7c4.js",
+    "main.js": "/colorgame/static/js/main.6a6fa2da.js",
     "index.html": "/colorgame/index.html",
     "main.77c0a8a0.css.map": "/colorgame/static/css/main.77c0a8a0.css.map",
-    "main.605de7c4.js.map": "/colorgame/static/js/main.605de7c4.js.map"
+    "main.6a6fa2da.js.map": "/colorgame/static/js/main.6a6fa2da.js.map"
   },
   "entrypoints": [
     "static/css/main.77c0a8a0.css",
-    "static/js/main.605de7c4.js"
+    "static/js/main.6a6fa2da.js"
   ]
 }
